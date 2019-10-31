@@ -8,18 +8,20 @@ Description
 Crop scanned image interactively, create multiple sub-images,
     and save into folder named after labels
 
-Depend on `python-opencv`:
-    if cv2 not found, install using : 
-            
-    pip install opencv-python
+Depend on `python-opencv`, if *cv2 not found*: 
 
-**Need to create handwritten image database more quickly?**
++ install using : `pip install opencv-python`
 
-**Getting tired of crop images using MS Paint, GIMP or even PS?**
+Why HappyCrop???
+---
 
-**Or still taking pictures of 1 character each?**
+Want to create handwritten image database more quickly?
 
-**A handy tool can be helpful!**
+Getting tired of MS Paint, GIMP or PS?
+
+Or still taking pictures of 1 character each?
+
+**IT SAVES YOUR LIFE! YOU CAN GO OUT AND HAVE FUN!**
 
 Usage
 ---
